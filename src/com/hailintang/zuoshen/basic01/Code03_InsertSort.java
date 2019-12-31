@@ -1,4 +1,4 @@
-package hailintang.zuoshen;
+package hailintang.zuoshen.basic01;
 
 import java.util.Arrays;
 
