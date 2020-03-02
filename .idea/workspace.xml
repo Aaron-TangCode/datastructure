@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a92df607-2261-4315-b235-e4a1482359b8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/com/hailintang/array/MyComparator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/hailintang/array/Teacher.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/hailintang/exercise/TreeOrder.java" afterDir="false" />
@@ -49,6 +50,17 @@
       <change beforePath="$PROJECT_DIR$/src/com/hailintang/zuoshen/Code01_SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hailintang/zuoshen/class_01/Code01_SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/hailintang/zuoshen/Code02_BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hailintang/zuoshen/class_01/Code02_BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/hailintang/zuoshen/Code03_InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hailintang/zuoshen/class_01/Code03_InsertSort.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/com/hailintang/zuoshen/basic01/Code04_BSExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hailintang/zuoshen/basic01/Code05_BSNearLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hailintang/zuoshen/basic02/Code01_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hailintang/zuoshen/basic02/exercises/Code01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hailintang/zuoshen/basic02/exercises/Code02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hailintang/zuoshen/Code01_SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hailintang/zuoshen/basic01/Code01_SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hailintang/zuoshen/Code02_BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hailintang/zuoshen/basic01/Code02_BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hailintang/zuoshen/Code03_InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hailintang/zuoshen/basic01/Code03_InsertSort.java" afterDir="false" />
+>>>>>>> 47580cc0ecf23d1c4c09c021590f9da840a756fb
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +74,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
@@ -120,6 +133,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 47580cc0ecf23d1c4c09c021590f9da840a756fb
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -130,6 +145,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -227,12 +243,27 @@
       <pane id="Scope" />
     </panes>
   </component>
+=======
+  <component name="ProjectId" id="1VeAZZZlxLrSBrSOFCAPUCHnqTk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> 47580cc0ecf23d1c4c09c021590f9da840a756fb
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+>>>>>>> 47580cc0ecf23d1c4c09c021590f9da840a756fb
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -261,13 +292,19 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Chinese_1122">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hailintang.array.Array" />
+=======
+  <component name="RunManager" selected="Application.Code02">
+    <configuration name="Code01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hailintang.zuoshen.basic02.exercises.Code01" />
+>>>>>>> 47580cc0ecf23d1c4c09c021590f9da840a756fb
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hailintang.array.*" />
+          <option name="PATTERN" value="hailintang.zuoshen.basic02.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +312,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Chinese_1122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hailintang.leetcode.Chinese_1122" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hailintang.leetcode.*" />
+=======
+    <configuration name="Code02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hailintang.zuoshen.basic02.exercises.Code02" />
+      <module name="datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hailintang.zuoshen.basic02.exercises.*" />
+>>>>>>> 47580cc0ecf23d1c4c09c021590f9da840a756fb
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,11 +335,19 @@
       </method>
     </configuration>
     <configuration name="Code03_InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+<<<<<<< HEAD
       <option name="MAIN_CLASS_NAME" value="com.hailintang.zuoshen.class_01.Code03_InsertSort" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hailintang.zuoshen.class_01.*" />
+=======
+      <option name="MAIN_CLASS_NAME" value="hailintang.zuoshen.basic01.Code03_InsertSort" />
+      <module name="datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hailintang.zuoshen.basic01.*" />
+>>>>>>> 47580cc0ecf23d1c4c09c021590f9da840a756fb
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,12 +355,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Code04_SortArrayDistanceLessK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hailintang.zuoshen.class_02.Code04_SortArrayDistanceLessK" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hailintang.zuoshen.class_02.*" />
+=======
+    <configuration name="Code04_BSExist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hailintang.zuoshen.basic01.Code04_BSExist" />
+      <module name="datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hailintang.zuoshen.basic01.*" />
+>>>>>>> 47580cc0ecf23d1c4c09c021590f9da840a756fb
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,12 +377,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="MyComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hailintang.array.MyComparator" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hailintang.array.*" />
+=======
+    <configuration name="Code05_BSNearLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hailintang.zuoshen.basic01.Code05_BSNearLeft" />
+      <module name="datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hailintang.zuoshen.basic01.*" />
+>>>>>>> 47580cc0ecf23d1c4c09c021590f9da840a756fb
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,10 +401,17 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Chinese_1122" />
         <item itemvalue="Application.MyComparator" />
         <item itemvalue="Application.Code04_SortArrayDistanceLessK" />
         <item itemvalue="Application.Array" />
+=======
+        <item itemvalue="Application.Code02" />
+        <item itemvalue="Application.Code01" />
+        <item itemvalue="Application.Code05_BSNearLeft" />
+        <item itemvalue="Application.Code04_BSExist" />
+>>>>>>> 47580cc0ecf23d1c4c09c021590f9da840a756fb
         <item itemvalue="Application.Code03_InsertSort" />
       </list>
     </recent_temporary>
@@ -347,6 +426,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575938621027</updated>
+<<<<<<< HEAD
       <workItem from="1575938622357" duration="2987000" />
       <workItem from="1578152739344" duration="192000" />
       <workItem from="1578153968244" duration="95000" />
@@ -625,6 +705,45 @@
         </state>
       </provider>
     </entry>
+=======
+      <workItem from="1575938622357" duration="2623000" />
+      <workItem from="1577603248490" duration="11767000" />
+      <workItem from="1577782688998" duration="560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hailintang/zuoshen/basic02/exercises/Code01.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hailintang/zuoshen/basic02/exercises/Code02.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+>>>>>>> 47580cc0ecf23d1c4c09c021590f9da840a756fb
   </component>
   <component name="masterDetails">
     <states>
