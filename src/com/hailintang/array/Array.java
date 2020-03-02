@@ -137,5 +137,6 @@ public class Array {
         array.removeLast();
         System.out.println(array);
 
+        System.out.println((0-1)/2);
     }
 }

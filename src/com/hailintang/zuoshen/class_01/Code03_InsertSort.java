@@ -1,28 +1,27 @@
-package com.hailintang.zuoshen;
+package com.hailintang.zuoshen.class_01;
 
 import java.util.Arrays;
 
 /**
  * @author Aaron
- * @date 2019-12-27 00:23
- * @function 选择排序，就是先选最小，然后选第二选，直到最后
+ * @date 2019-12-27 09:35
+ * @function
  */
-public class Code01_SelectionSort {
-    public static void selectionSort(int[] arr){
+public class Code03_InsertSort {
+    public static void insertSort(int[] arr){
         if(arr==null||arr.length==1){
             return;
         }
-        for(int i=0;i<arr.length;i++){
-            int minIndex = i;
-            for(int j=i+1;j<arr.length;j++){
-                if(arr[minIndex]>arr[j]){
-                    minIndex = j;
+        //0~0有序
+        //想要1~N有序
+        for(int i=1;i<arr.length;i++){
+            for(int j=i-1;j>=0;j--){
+                if(arr[j]>arr[j+1]){
+                    swap(arr,j,j+1);
                 }
             }
-            swap(arr,i,minIndex);
         }
     }
-
     public static void swap(int[] arr,int i,int j){
         int temp = arr[i];
         arr[i] = arr[j];
@@ -93,7 +92,7 @@ public class Code01_SelectionSort {
         for (int i = 0; i < testTime; i++) {
             int[] arr1 = generateRandomArray(maxSize, maxValue);
             int[] arr2 = copyArray(arr1);
-            selectionSort(arr1);
+            insertSort(arr1);
             comparator(arr2);
             if (!isEqual(arr1, arr2)) {
                 succeed = false;
@@ -106,7 +105,7 @@ public class Code01_SelectionSort {
 
         int[] arr = generateRandomArray(maxSize, maxValue);
         printArray(arr);
-        selectionSort(arr);
+        insertSort(arr);
         printArray(arr);
     }
 }
